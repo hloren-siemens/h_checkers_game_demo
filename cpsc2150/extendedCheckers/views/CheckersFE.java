@@ -46,7 +46,7 @@ public class CheckersFE
      *
      * @post the piece variable with its value converted to its lower-case form
      */
-    //public static char toLowerCase(char piece){
+    public static char toLowerCase(char piece){
         return Character.toLowerCase(piece);
     }
 
