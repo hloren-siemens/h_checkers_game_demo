@@ -17,7 +17,7 @@ import java.util.Scanner;
  * @initialization_ensures:
  *      self is initialized
  */
-public class CheckersFE
+
 {
 
     /**
